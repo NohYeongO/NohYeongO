@@ -13,7 +13,7 @@
   <a href="mailto:nohyo05@naver.com">
     <img src="https://img.shields.io/badge/nohyo05@naver.com-DB4437?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.notion.so/15aaeebbb78d804e9930d1a3660b9d89?pvs=21">
+  <a href="https://yeongo.notion.site/Backend-Developer-59ff1280d6fd4e90aa306d261b5a09d7">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
 </p>
@@ -57,9 +57,5 @@
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=NohYeongO&show_icons=true&theme=tokyonight" />
-  </a>
-  <br>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NohYeongO&layout=compact&theme=tokyonight" />
   </a>
 </p>
