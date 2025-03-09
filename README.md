@@ -49,7 +49,7 @@
 <br>
 
 <h2 align="center">🎓 Education</h2>
-<p align="center">📖 <b>공주대학교 소프트웨어학과 3학년 재학 중</b></p>
+<p align="center">📖 <b>공주대학교 소프트웨어학과</b></p>
 
 <br>
 
