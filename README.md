@@ -2,8 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00CED1&height=200&section=header&text=👨‍💻%20Hello,%20World!%20I'm%20Yeong%20O.&fontSize=40&fontColor=FFFFFF&fontAlignY=40)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNohYeongO%2Fhit-counter&count_bg=%230F0F0F&title_bg=%23D72121&icon=&icon_color=%23E7E7E7&title=Welcome&edge_flat=false)](https://hits.seeyoufarm.com)
-
 <h3>
   <img src="https://img.shields.io/badge/Backend%20Developer-000000?style=for-the-badge&logo=serverfault&logoColor=white"/>
 </h3>
