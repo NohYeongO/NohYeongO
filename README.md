@@ -47,7 +47,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/정보처리산업기사-4F4F4F?style=for-the-badge&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL%20Developer(SQLD)-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/SQL%20Developer(SQLD)-4479A1?style=for-the-badge&logoColor=white"/>  
 </p>
 
 <div align="center">
