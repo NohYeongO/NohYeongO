@@ -42,32 +42,6 @@
 <div align="center">
 <br>    
   
-### 🪪 Certifications  
-</div>
-
-<p>
-  <img src="https://img.shields.io/badge/정보처리산업기사-4F4F4F?style=for-the-badge&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL%20Developer(SQLD)-4479A1?style=for-the-badge&logoColor=white"/>  
-</p>
-
-<div align="center">
-<br>    
-  
-### 📜 Work Experience  
-</div>
-
-<p>📂 <b>(주) 부팅 (공공기관 SI, SM)</b> <br> 📅 2024.07 ~ 2025.03 (9개월)</p>
-
-<div align="center">
-<br>    
-  
-### 🎓 Education  
-</div>
-
-<p>📖 <b>공주대학교 소프트웨어학과</b></p>
-
-<div align="center">
-<br>    
   
 ### 📊 GitHub Stats  
 </div>
