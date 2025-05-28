@@ -16,7 +16,7 @@
   <a href="mailto:nohyo05@naver.com">
     <img src="https://img.shields.io/badge/nohyo05@naver.com-DB4437?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://yeongo.notion.site/Backend-Developer-59ff1280d6fd4e90aa306d261b5a09d7">
+  <a href="https://nohyeongo.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
 </p>
