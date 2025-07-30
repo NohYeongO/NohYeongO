@@ -4,7 +4,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00CED1&height=200&section=header&text=👨‍💻%20Hello,%20World!%20I'm%20Yeong%20O.&fontSize=40&fontColor=FFFFFF&fontAlignY=40)
 
-<br><br>
 
 <h3>
   <img src="https://img.shields.io/badge/Backend%20Developer-000000?style=for-the-badge&logo=serverfault&logoColor=white"/>
