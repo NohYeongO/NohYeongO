@@ -1,63 +1,50 @@
 <div align="center">
 
-<br>
+<!-- 타이핑 문구 -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1100&center=true&vCenter=true&width=720&color=9A5AFF&lines=💻+Hello%2C+I'm+Yeong+O;☕+Coffee+Lover+%26+Backend+Developer;🌍+I+LOVE+TRAVEL;🚀+Keep+Learning%2C+Keep+Building" />
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00CED1&height=200&section=header&text=👨‍💻%20Hello,%20World!%20I'm%20Yeong%20O.&fontSize=40&fontColor=FFFFFF&fontAlignY=40)
+<br/>
+<br/>
 
-
-<h3>
-  <img src="https://img.shields.io/badge/Backend%20Developer-000000?style=for-the-badge&logo=serverfault&logoColor=white"/>
-</h3>
-
-<br><br>
-
-### 📫 Contact
-
-<a href="mailto:nohyo05@naver.com">
-  <img src="https://img.shields.io/badge/nohyo05@naver.com-DB4437?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
-### 📁 Portfolio & Dev Blog
-
+### 📁 Portfolio & Blog
 <a href="https://yeongo.notion.site/Backend-Developer-59ff1280d6fd4e90aa306d261b5a09d7?pvs=74">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
 </a>
 <a href="https://nohyeongo.github.io/">
-  <img src="https://img.shields.io/badge/DevBlog-462679?style=for-the-badge&logo=githubpages&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DevBlog-6E44FF?style=for-the-badge&logo=githubpages&logoColor=white"/>
+</a>
+<a href="mailto:nohyo05@naver.com">
+  <img src="https://img.shields.io/badge/Contact-FF3B30?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br><br>
+<br/><br/>
 
 ### 🛠️ Tech Stack
+<div align="center">
 
-<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot"/> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="40" alt="JPA/Hibernate"/> &nbsp;
+<img src="https://mybatis.org/images/mybatis-logo.png" height="40" alt="MyBatis"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle"/> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis"/> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="GitHub Actions"/> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>  
 
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/JPA-6E4095?style=for-the-badge&logo=hibernate&logoColor=white"/>
-<img src="https://img.shields.io/badge/MyBatis-4479A1?style=for-the-badge&logo=mybatis&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</div>
+<br/><br/>
 
-<br><br>
+### 📊 Stats
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=NohYeongO&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="150" src="https://streak-stats.demolab.com?user=NohYeongO&theme=tokyonight&hide_border=true" />
 
-### 📊 GitHub Stats
+<br/><br/><br/>
 
-<br>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=NohYeongO&show_icons=true&theme=tokyonight" />
+<img src="https://komarev.com/ghpvc/?username=NohYeongO&style=flat&color=9A5AFF" alt="views"/>
+<a href="https://github.com/NohYeongO?tab=followers">
+  <img src="https://img.shields.io/github/followers/NohYeongO?style=social" alt="followers"/>
 </a>
-
-<br><br>
-
-![footer](https://capsule-render.vercel.app/api?&type=waving&color=0:6A5ACD,100:00CED1&height=200&section=footer)
-
-<br>
 
 </div>
