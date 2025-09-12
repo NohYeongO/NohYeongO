@@ -6,7 +6,8 @@
 <br/>
 <br/>
 
-### 📁 Portfolio & Blog
+### 📁 Portfolio & Blog & Contact
+<br/>
 <a href="https://yeongo.notion.site/Backend-Developer-59ff1280d6fd4e90aa306d261b5a09d7?pvs=74">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
 </a>
@@ -20,12 +21,14 @@
 <br/><br/>
 
 ### 🛠️ Tech Stack
+<br/>
 <div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/> &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot"/> &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="40" alt="JPA/Hibernate"/> &nbsp;
 <img src="https://mybatis.org/images/mybatis-logo.png" height="40" alt="MyBatis"/> &nbsp;
+<br/><br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/> &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle"/> &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis"/> &nbsp;&nbsp;
