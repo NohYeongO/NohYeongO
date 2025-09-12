@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 타이핑 문구 -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1100&center=true&vCenter=true&width=720&color=9A5AFF&lines=💻+Hello%2C+I'm+Yeong+O;☕+Coffee+Lover+%26+Backend+Developer;🌍+I+LOVE+TRAVEL;🚀+Keep+Learning%2C+Keep+Building" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1100&center=true&vCenter=true&width=720&color=9A5AFF&lines=💻+Hello%2C+I'm+Yeong+O;☕+Coffee+Lover+%26+Backend+Developer;" />
 
 <br/>
 <br/>
