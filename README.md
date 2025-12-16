@@ -8,7 +8,7 @@
 
 ### 📁 Portfolio & Blog & Contact
 <br/>
-<a href="https://yeongo.notion.site/Backend-Developer-59ff1280d6fd4e90aa306d261b5a09d7?pvs=74">
+<a href="https://yeongo.notion.site/Backend-Developer-2cbaeebbb78d816eb614e7aab30fffd5?pvs=74">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
 </a>
 <a href="https://nohyeongo.github.io/">
