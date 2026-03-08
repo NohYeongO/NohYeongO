@@ -2,10 +2,7 @@
 
 ### 📁 Resume & Portfolio & Blog & Contact
 <br/>
-<a href="https://docs.google.com/document/d/1WE8ysrZgQoH9u4YI4qceVMx0FXxJZkjstkd9YvKG9TQ/edit?usp=sharing">
-  <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white"/>
-</a>
-<a href="https://docs.google.com/document/d/19cIc9jsTbK7FCzWEe5m1h6SOKm297xH9DeL5Uv1ytjI/edit?usp=sharing">
+<a href="[https://docs.google.com/document/d/19cIc9jsTbK7FCzWEe5m1h6SOKm297xH9DeL5Uv1ytjI/edit?usp=sharing](https://docs.google.com/presentation/d/11KBdYVsg_fq24eOtyndfFdksXGD9Lq7vEeoHHVJCIJ4/edit?usp=sharing)">
   <img src="https://img.shields.io/badge/Portfolio-34A853?style=for-the-badge&logo=googledrive&logoColor=white"/>
 </a>
 <a href="https://velog.io/@nohyo05/posts">
