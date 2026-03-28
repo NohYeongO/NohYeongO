@@ -2,6 +2,9 @@
 
 ### 📁 Resume & Portfolio & Blog & Contact
 <br/>
+<a href="https://docs.google.com/document/d/13k_L7J26XzV272PDgSgknRcVrIYAiKLjP9eCpNIK2R4/edit?usp=sharing">
+  <img src="https://img.shields.io/badge/Resume-6C63FF?style=for-the-badge&logo=readme&logoColor=white"/>
+</a>
 <a href="https://docs.google.com/document/d/1r3g-0l48myyKCT0gpaovXijFiGbPXEiwnCwbQbRGSJk/edit?usp=sharing">
   <img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=googledrive&logoColor=white"/>
 </a>
