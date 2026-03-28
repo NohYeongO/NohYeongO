@@ -2,7 +2,7 @@
 
 ### 📁 Resume & Portfolio & Blog & Contact
 <br/>
-<a href="https://docs.google.com/presentation/d/11KBdYVsg_fq24eOtyndfFdksXGD9Lq7vEeoHHVJCIJ4/edit?usp=sharing">
+<a href="https://docs.google.com/document/d/1r3g-0l48myyKCT0gpaovXijFiGbPXEiwnCwbQbRGSJk/edit?usp=sharing">
   <img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=googledrive&logoColor=white"/>
 </a>
 <a href="https://velog.io/@nohyo05/posts">
