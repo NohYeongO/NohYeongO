@@ -8,6 +8,7 @@
 <a href="https://docs.google.com/document/d/1r3g-0l48myyKCT0gpaovXijFiGbPXEiwnCwbQbRGSJk/edit?usp=sharing">
   <img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=googledrive&logoColor=white"/>
 </a>
+<br/>
 <a href="https://velog.io/@nohyo05/posts">
   <img src="https://img.shields.io/badge/Blog-3FE87F?style=for-the-badge&logo=velog&logoColor=white"/>
 </a>
