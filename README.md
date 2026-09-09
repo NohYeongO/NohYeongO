@@ -1,42 +1,39 @@
 <div align="center">
 
-### 📁 Portfolio & Blog & Contact
 <br/>
-<a href="https://drive.google.com/file/d/1DoAHt8g20kRY4Ybx8pz1c1B4n2y85-jS/view?usp=sharing">
-  <img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=googledrive&logoColor=white"/>
+
+<a href="./assets/portfolio.pdf">
+  <img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=googledrive&logoColor=FFFFFF"/>
 </a>
-<br/>
+&nbsp;&nbsp;
+<a href="./assets/resume.pdf">
+  <img src="https://img.shields.io/badge/RESUME-0D1117?style=for-the-badge&logo=googledocs&logoColor=FFFFFF"/>
+</a>
+&nbsp;&nbsp;
 <a href="https://velog.io/@nohyo05/posts">
-  <img src="https://img.shields.io/badge/Blog-3FE87F?style=for-the-badge&logo=velog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BLOG-0D1117?style=for-the-badge&logo=velog&logoColor=20C997"/>
 </a>
+&nbsp;&nbsp;
 <a href="mailto:nohyo05@naver.com">
-  <img src="https://img.shields.io/badge/Contact-FF3B30?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
-<br/><br/>
+<br/><br/><br/>
 
-### 🛠️ Tech Stack
-<br/>
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/> &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot"/> &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="40" alt="JPA/Hibernate"/> &nbsp;
-<img src="https://mybatis.org/images/mybatis-logo.png" height="40" alt="MyBatis"/> &nbsp;
-<br/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/> &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle"/> &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis"/> &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/> &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="GitHub Actions"/> &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>  
-
-</div>
-<br/>
-<br/>
-<img src="https://komarev.com/ghpvc/?username=NohYeongO&style=flat&color=9A5AFF" alt="views"/>
-<a href="https://github.com/NohYeongO?tab=followers">
-  <img src="https://img.shields.io/github/followers/NohYeongO?style=social" alt="followers"/>
-</a>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/NohYeongO/NohYeongO/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/NohYeongO/NohYeongO/output/pacman-contribution-graph.svg"
+  />
+  <img
+    alt="Pac-Man contribution graph"
+    src="https://raw.githubusercontent.com/NohYeongO/NohYeongO/output/pacman-contribution-graph.svg"
+    width="100%"
+  />
+</picture>
 
 </div>
