@@ -8,13 +8,15 @@
 
 <br/><br/>
 <!-- Links -->
-<a href="./assets/portfolio.pdf">
+<a href="https://drive.google.com/file/d/16Di0AlMx0bD3pHbj8Agf9JVZn7Zx_90P/view?usp=sharing">
   <img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=googledrive&logoColor=FFFFFF"/>
 </a>
 &nbsp;&nbsp;
-<a href="./assets/resume.pdf">
+
+<a href="https://drive.google.com/file/d/1cYyDp7y9PLqI_fT-cf-rUIA8-yzmb_33/view?usp=sharing">
   <img src="https://img.shields.io/badge/RESUME-0D1117?style=for-the-badge&logo=googledocs&logoColor=FFFFFF"/>
 </a>
+&nbsp;&nbsp;
 &nbsp;&nbsp;
 <a href="https://velog.io/@nohyo05/posts">
   <img src="https://img.shields.io/badge/BLOG-0D1117?style=for-the-badge&logo=velog&logoColor=20C997"/>
