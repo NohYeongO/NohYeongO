@@ -28,56 +28,7 @@
 
 <br/><br/><br/>
 
-
-<!-- Services -->
-<table>
-<tr>
-
-<td align="center" width="280">
-
-<img
-  src="./assets/gongdream.png"
-  width="110"
-/>
-
 <br/>
-
-<b>공드림</b>
-
-<br/>
-
-<a href="https://apps.apple.com/kr/app/%EA%B3%B5%EB%93%9C%EB%A6%BC-new/id6761681959">
-  <img src="https://img.shields.io/badge/App_Store-0D1117?style=flat-square&logo=apple&logoColor=white"/>
-</a>
-
-<a href="https://play.google.com/store/apps/details?id=com.gongdream.mobile&hl=ko">
-  <img src="https://img.shields.io/badge/Google_Play-0D1117?style=flat-square&logo=googleplay&logoColor=white"/>
-</a>
-
-</td>
-
-<td align="center" width="280">
-
-<img
-  src="./assets/fryday.png"
-  width="110"
-/>
-
-<br/>
-
-<b>FryDay</b>
-
-<br/>
-
-<a href="https://apps.apple.com/kr/app/fryday-%ED%94%84%EB%9D%BC%EC%9D%B4%EB%8D%B0%EC%9D%B4-%ED%88%AC%EB%91%90-%ED%95%A0-%EC%9D%BC/id6759564063">
-  <img src="https://img.shields.io/badge/App_Store-0D1117?style=flat-square&logo=apple&logoColor=white"/>
-</a>
-
-<a href="https://play.google.com/store/apps/details?id=com.crispycrew.fryday&hl=ko">
-  <img src="https://img.shields.io/badge/Google_Play-0D1117?style=flat-square&logo=googleplay&logoColor=white"/>
-</a>
-
-</td>
 
 </tr>
 </table>
