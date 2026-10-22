@@ -8,13 +8,8 @@
 
 <br/><br/>
 <!-- Links -->
-<a href="https://drive.google.com/file/d/1QuLIVDhqUJOAsKqnI5fobSj19T4XV_hI/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1shklLOJiyz_V-kgwVp6wG1kmwvOGf4kE/view?usp=sharing">
   <img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=googledrive&logoColor=FFFFFF"/>
-</a>
-&nbsp;&nbsp;
-
-<a href="https://drive.google.com/file/d/1cYyDp7y9PLqI_fT-cf-rUIA8-yzmb_33/view?usp=sharing">
-  <img src="https://img.shields.io/badge/RESUME-0D1117?style=for-the-badge&logo=googledocs&logoColor=FFFFFF"/>
 </a>
 &nbsp;&nbsp;
 &nbsp;&nbsp;
