@@ -8,7 +8,7 @@
 
 <br/><br/>
 <!-- Links -->
-<a href="https://drive.google.com/file/d/1Q9vnBCZBCBoGcESfYJo4me0I0dWP9DaX/view?usp=sharing">
+<a href="https://app.notion.com/p/yeongo/Backend-Developer-41baeebbb78d81e39164d562797bcf9b?source=copy_link">
   <img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=googledrive&logoColor=FFFFFF"/>
 </a>
 &nbsp;&nbsp;
